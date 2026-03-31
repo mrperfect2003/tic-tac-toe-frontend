@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Next.js build files
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env.local
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Lock files (optional - keep if team project)
+# package-lock.json
+
+# Misc
+*.log
